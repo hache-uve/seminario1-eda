@@ -53,7 +53,7 @@ namespace Tarea1
 			string result = elementos.Find(x => x == elem);
 			if(result != null)
 			{
-				Console.WriteLine("Encontrado. El elemento {0} existe en la lista.");
+				Console.WriteLine("Encontrado. El elemento {0} existe en la lista.", elem);
 			}
 			else
 			{

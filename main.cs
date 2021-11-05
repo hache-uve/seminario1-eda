@@ -58,7 +58,7 @@ class Program {
 				miLista.AgregarElemento(nuevoElemento);
 				miLista.MostrarElementos();
 				break;
-
+				
 			case "2": //Insertar un elemento en la primera posición
 
 				Console.WriteLine("2- INSERTAR UN ELEMENTO EN LA PRIMERA POSICIÓN DE UNA LISTA\n");
